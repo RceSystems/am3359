@@ -4,3 +4,4 @@ these two files to the boot sector:
 am335evmsk.dtb
 zImage
 
+Just a change
