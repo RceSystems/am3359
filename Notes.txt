@@ -1,0 +1,6 @@
+After building you extracted core-image-full-cmdline-am335x-evm.wic.xz  and then added 
+these two files to the boot sector:
+
+am335evmsk.dtb
+zImage
+
