@@ -1,3 +1,9 @@
+// Setup the build environment
+. /home/build/sources/poky/oe-init-build-env /home/build/am3359
+
+// Run the build
+bitbake 
+
 After building you extracted core-image-full-cmdline-am335x-evm.wic.xz  and then added 
 these two files to the boot sector:
 
